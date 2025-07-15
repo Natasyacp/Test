@@ -7,7 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Full+Stack+Web+Developer;UI+UX+Enthusiast;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 
-<hr>
 <p align="center" width="150px"> I am an Information Systems student at Trunojoyo Madura University, passionate about frontend development and UI/UX design. I focus on creating responsive, user-friendly interfaces. Driven to build impactful and engaging digital experiences.</p>
 
 ---
