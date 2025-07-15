@@ -56,7 +56,7 @@ With a blend of **technical skills and creative vision**, I’m committed to rev
 
 ---
 
-### 📬 Contact Me
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/natasyacp" target="_blank">
@@ -72,8 +72,7 @@ With a blend of **technical skills and creative vision**, I’m committed to rev
 
 ---
 
-### 📊 GitHub Stats
-
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natasyacp&show_icons=true&theme=tokyonight&hide_border=true" alt="Natasya's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natasyacp&theme=material-palenight" alt="Natasya's GitHub Streak"/>
@@ -84,7 +83,3 @@ With a blend of **technical skills and creative vision**, I’m committed to rev
 <p align="center">
   <img src="https://raw.githubusercontent.com/Natasyacp/Natasyacp/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-<p align="center">✨ Thank you for visiting my profile!</p>
