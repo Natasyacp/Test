@@ -2,7 +2,7 @@
   <img src="https://firebasestorage.googleapis.com/v0/b/sriusnyoba.appspot.com/o/HiLO.png?alt=media&token=e4514ced-765d-40e2-91e8-ca25277c08c2" alt="Header Image" width="700"/>
 </p>
 
-<h1 align="center">Hi , I'm Natasya Purnama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Natasya Chesa Purnama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Full+Stack+Web+Developer;UI/UX+Enthusiast;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
@@ -73,7 +73,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Natasyacp/Natasyacp/output/github-contribution-grid-snake.svg" />
-</p>
