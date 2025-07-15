@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Header Image" width="200"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/sriusnyoba.appspot.com/o/HiLO.png?alt=media&token=e4514ced-765d-40e2-91e8-ca25277c08c2" alt="Header Image" width="200"/>
 </p>
 
 <h1 align="center">Hi , I'm Natasya Purnama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
