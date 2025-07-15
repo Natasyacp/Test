@@ -2,8 +2,10 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Header Image" width="200"/>
 </p>
 
-<h1 align="center">Hi, I'm Natasya 👋</h1>
-<h3 align="center">Information Systems Student | Frontend Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Hi , I'm Natasya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Full+Stack+Web+Developer;UI/UX Designer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+</p>
 
 ---
 
