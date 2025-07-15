@@ -2,20 +2,13 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Header Image" width="200"/>
 </p>
 
-<h1 align="center">Hi , I'm Natasya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Natasya Purnama <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Systems+Student;Full+Stack+Web+Developer;UI+UX+Enthusiast;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 
 ---
-
-### 👩‍💻 About Me
-
-Hi, I'm Natasya, an Information Systems student passionate about frontend web development and UI/UX design.  
-I’ve built a solid foundation in technologies like **HTML**, **CSS**, **JavaScript**, **React.js**, and **Laravel**, allowing me to create responsive and dynamic websites.  
-
-I’m eager to explore more tools and frameworks to build powerful, scalable applications with great user experiences.  
-With a blend of **technical skills and creative vision**, I’m committed to revolutionizing the digital world—one captivating interface at a time.
+<p align="center" width="150px"> I am an Information Systems student at Trunojoyo Madura University, passionate about frontend development and UI/UX design. I focus on creating responsive, user-friendly interfaces. Driven to build impactful and engaging digital experiences.</p>
 
 ---
 
