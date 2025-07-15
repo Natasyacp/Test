@@ -56,7 +56,7 @@ With a blend of **technical skills and creative vision**, I’m committed to rev
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Natasyacp/Natasyacp/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contributions"/>
+  <img src="https://raw.githubusercontent.com/Natasyacp/Natasyacp/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
